@@ -2982,7 +2982,7 @@ h1.page-title + .tag-cloud-list {
     display: none;
   }
   html.hide-aside .layout > div:first-child {
-    width: 80%;
+    width: 90%;
   }
 }
 .page .sticky_layout {
